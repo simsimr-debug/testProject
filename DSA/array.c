@@ -6,7 +6,9 @@ void main(){
     }
 
     char name[] = {"SIMRAN"};
+    printf("Name: ");
     printf("%s",name);
     //name will be printed
+
 
 }
