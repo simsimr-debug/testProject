@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h> 
-
+//hey there
 struct Node{
     int data;
     struct Node* next;
